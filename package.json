@@ -1,0 +1,19 @@
+{
+  "name": "barbershop-webapp",
+  "version": "1.0.0",
+  "description": "Веб-приложение для записи в барбершоп",
+  "main": "webapp/server.js",
+  "scripts": {
+    "start": "node webapp/server.js",
+    "dev": "node webapp/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "barbershop",
+    "telegram",
+    "webapp",
+    "booking"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
